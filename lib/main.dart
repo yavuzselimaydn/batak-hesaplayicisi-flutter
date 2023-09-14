@@ -1,5 +1,5 @@
 
-import 'package:batak_hesaplama/page/myhomepage.dart';
+import 'package:batak_hesaplama/pages/myhomepage.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());

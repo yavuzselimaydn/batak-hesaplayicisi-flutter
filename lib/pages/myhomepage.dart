@@ -1,5 +1,5 @@
-import 'package:batak_hesaplama/page/esli.dart';
-import 'package:batak_hesaplama/page/uckisi.dart';
+import 'package:batak_hesaplama/pages/esli.dart';
+import 'package:batak_hesaplama/pages/uckisi.dart';
 import 'package:flutter/material.dart';
 
 class MyHomePage extends StatelessWidget {

@@ -1,4 +1,4 @@
-import 'package:batak_hesaplama/page/sonuc.dart';
+import 'package:batak_hesaplama/pages/sonuc.dart';
 import 'package:flutter/material.dart';
 
 class UcKisiHesap extends StatefulWidget {
