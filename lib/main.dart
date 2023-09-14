@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       ),
       title: 'Material App',
       debugShowCheckedModeBanner: false,
-      home: MyHomePage(),
+      home: const MyHomePage(),
     );
   }
 }
